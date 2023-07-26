@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Fundamentos</title>
+    </head>
+    <body style="padding-bottom: 500px">
+        <!-- 01 Títulos -->
+<h1>Este é um título importante</h1>
+<h3>Um novo título</h3>
+
+<!-- 02 Parágrafos -->
+<p>Descrição dos nossos serviços</p>
+<p>Mais um parágrafo</p>
+
+<!-- 03 Tags sem conteúdo -->
+<p>Um parágrafo</p>
+<br>
+<p>Segundo parágrafo</p>
+<hr>
+<p>Terceiro parágrafo</p>
+
+<!-- 04 Comentários -->
+<!-- Este é um comentário -->
+<h2>Mais um título</h2>
+<!-- Outro comentário -->
+
+<!-- 05 Atributos -->
+<a href="https://google.com">Google</a>
+<br>
+
+<!-- 06 Abrir link em outra aba -->
+<a href="https://google.com" target="_blank">Google em nova aba</a>
+<br>
+
+<!-- 07 Imagem -->
+<img src="img/0c7923a6370ec3b0e3f559ca5c2582df.jpg" alt="Lua de Pixels">
+
+<!-- Listas não ordenadas -->
+<ul>
+    <li>Sol</li>
+    <li>Plutão</li>
+    <li>Venus</li>
+    <li>Marte</li>
+</ul>
+<hr>
+<!-- Listas Ordenadas -->
+<ol>
+    <li>Acordar</li>
+    <li>Sofrer</li>
+    <li>Trabalhar</li>
+    <li>Estudar</li>
+</ol>
+<hr>
+<!-- Tabelas -->
+<table>
+<tr>
+    <th>ID:</th>
+    <th>Nome:</th>
+    <th>Profissão:</th>
+</tr>
+<tr>
+    <td>1</td>
+    <td>Lucas</td>
+    <td>Professor de Inglês</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>Lilian</td>
+    <td>Programadora</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>Pepe</td>
+    <td>Jardineiro</td>
+</tr>
+</table>
+
+<!-- Div -->
+<div>
+    <h2>Título da Seção</h2>
+    <p>Descrição da Seção, um texto relacionado a este assunto</p>
+    <a href="#">Saber mais</a>
+</div>
+<div>
+    <h2>Sobre Lucas</h2>
+    <p>Nome completo: Lucas Sperb Orsi Velho</p>
+</div>
+    </body>
+</html>
